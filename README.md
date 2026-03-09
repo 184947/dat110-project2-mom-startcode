@@ -1,5 +1,9 @@
 ## DAT110 - Project 2: Publish-subscribe messaging middleware
 
+/////**_Dette prosjektet implementerer en publish-subscribe message broker.
+Klienter kan opprette topics, abonnere på topics og publisere meldinger.
+Broker-en lagrer subscriptions og videresender meldinger til alle abonnenter._**/////
+
 ### Organisation
 
 This project work is to be undertaken in **groups of 2-5 students** - preferably the same groups as for project 1.
